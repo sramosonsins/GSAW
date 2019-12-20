@@ -34,9 +34,3 @@ sh compile_indexingtFasta.sh
 
 cd ../mergetFasta
 sh compile_mergetFasta.sh
-
-## Execute GSAW
-
-cd $DIR
-
-./dist/GSAW

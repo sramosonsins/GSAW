@@ -31,6 +31,6 @@ sh compile\_indexingtFasta.sh
 cd ../mergetFasta
 sh compile\_mergetFasta.sh
 
-Finally, when all the softwares are compiled, the user can execute GSAW from the "dist" directory:
+## Finally, when all the softwares are compiled, the user can execute GSAW from the "dist" directory:
 
 ./dist/GSAW
