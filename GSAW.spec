@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['GSAW.py'],
-             pathex=['/home/jordi/Desktop/GSAW'],
+             pathex=['/Users/sramos/Documents/Github/GSAW'],
              binaries=[],
              datas=[],
              hiddenimports=[],
